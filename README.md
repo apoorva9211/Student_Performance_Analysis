@@ -1,45 +1,42 @@
-# Student Performance Analysis Project
+ Student Performance Analysis Project
+This project analyzes student performance using Python for data cleaning and exploration, and Power BI for interactive dashboard visualizations.
 
-This project analyzes student performance using **Python** (for cleaning and analysis) and **Power BI** (for dashboard visualization).
+1). Project Files
+File Name	Description
+student_analysis.ipynb	Python notebook for data cleaning and exploratory analysis
+student_cleaned_data.csv	Final cleaned dataset used in Power BI
+student_dashboard.pbix	Interactive Power BI dashboard
+README.md	Project overview and documentation
 
-## 📁 Project Files
+2).Tools Used
 
-| File Name | Description |
-|-----------|-------------|
-| `student_analysis.ipynb` | Data cleaning and preprocessing using Python |
-| `student_cleaned_data.csv` | Final cleaned dataset exported from Python |
-| `student_dashboard.pbix` | Interactive Power BI dashboard |
-| `README.md` | Project overview and documentation |
+Python (Pandas, Seaborn, Matplotlib)
+Power BI
+Excel (for basic review)
+GitHub
 
-## Tools Used
+3).Insights Covered
+Gender distribution
+GPA vs Gender
+GPA by Study Time
+GPA by Absences
+GPA by Tutoring
 
-- Python (Pandas, Seaborn, Matplotlib)
-- Power BI
-- Excel (Optional)
-- GitHub
 
-## Insights Covered
+4).Data Source
+Kaggle: [Student Performance Dataset](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset)
 
-- GPA vs Gender
-- GPA by Study Time
-- GPA by Absence
-- GPA by Tutoring
-- Parental Education impact
+5).How to Run
+Python:
+Open student_analysis.ipynb in Jupyter Notebook or VS Code.
+Run all cells to perform data cleaning and transformation.
+Export the cleaned data as student_cleaned_data.csv.
 
-## Data Source
+Power BI:
+Open student_dashboard.pbix in Power BI Desktop.
+Refresh the data source if needed.
+Explore the visuals and insights.
 
-[Kaggle Dataset](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset)
-
----
-
-##  How to Run
-
-1. Open `student_analysis.ipynb` in Jupyter Notebook.
-2. Run all cells to see the data cleaning.
-3. Open `student_dashboard.pbix` in Power BI Desktop to see visualizations.
-
----
-
-## Author
-
-**Apoorva** – BCA Graduate, aspiring Data Analyst.
+7).Author
+Apoorva – BCA Graduate, Aspiring Data Analyst
+🔗 Passionate about using Python and Power BI to solve real-world data problems.
